@@ -1,0 +1,8 @@
+# Python cache directory
+__pycache__/
+
+# Installation log from testing
+install.log
+
+# Image generated from testing
+testimage.img
